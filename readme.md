@@ -1,3 +1,6 @@
+__Warning__ 
+I'm neither using or working on this project.
+
 __Readme__
 
 This is a small class I created in a afternoon, which never got a lot of debugging. Treat it like one. __Enter at your peril!__ Feel free to fork and send pull requests.
